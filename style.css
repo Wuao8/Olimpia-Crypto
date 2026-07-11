@@ -110,7 +110,7 @@ body {
   font-size: 3px;
   color: #8aa0a6;
   text-align: center;
-  line-height: 1.2;
+  
 }
 
 /* 📱 MOBILE */
@@ -147,25 +147,23 @@ body {
 
 .telegram-box{
     text-align:center;
-    margin:4px 0 0;
+    margin:25px 0 15px;
     color:#9aa0a6;
-    font-size:12px;
-    line-height:1;
-}
-
-.telegram-box p{
-    margin:0 0 4px;
+    font-size:14px;
 }
 
 .telegram-box a{
     display:inline-block;
-    padding:0;
-    margin:0;
-    line-height:0;
+    margin-top:10px;
+    transition:.2s;
 }
 
 .telegram-box img{
-    display:block;
-    width:32px;
-    height:32px;
+    width:42px;
+    height:42px;
+    filter:invert(52%) sepia(92%) saturate(1900%) hue-rotate(170deg);
+}
+
+.telegram-box a:hover{
+    transform:scale(1.12);
 }

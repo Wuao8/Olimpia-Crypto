@@ -146,26 +146,25 @@ body {
 
 .telegram-box{
     text-align:center;
-    margin:8px 0 4px;
+    margin:4px 0 0;
     color:#9aa0a6;
-    font-size:14px;
+    font-size:12px;
+    line-height:1;
 }
 
 .telegram-box p{
-    margin:0;
-    padding:0;
+    margin:0 0 4px;
 }
 
 .telegram-box a{
     display:inline-block;
-    margin:4px 0 0;
     padding:0;
+    margin:0;
     line-height:0;
 }
 
 .telegram-box img{
     display:block;
-    width:38px;
-    height:38px;
-    filter:invert(52%) sepia(92%) saturate(1900%) hue-rotate(170deg);
+    width:32px;
+    height:32px;
 }

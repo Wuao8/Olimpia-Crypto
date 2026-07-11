@@ -106,10 +106,11 @@ body {
 
 /* FOOTER */
 .footer {
-  margin-top: 12px;
+  margin-top: 5px;
   font-size: 11px;
   color: #8aa0a6;
   text-align: center;
+  line-height: 1.2;
 }
 
 /* 📱 MOBILE */

@@ -1,11 +1,5 @@
 [
   {
-    "time": "2026-07-12 09:47:58",
-    "symbol": "PERPUSDT",
-    "side": "SHORT",
-    "value": -9.439559915884466e-06
-  },
-  {
     "time": "2026-07-12 09:48:00",
     "symbol": "PGONUSDT",
     "side": "SHORT",
@@ -1198,5 +1192,11 @@
     "symbol": "ZRXUSDT",
     "side": "SHORT",
     "value": -4.2433211284748085e-05
+  },
+  {
+    "time": "2026-07-14 01:42:24",
+    "symbol": "ACXUSDT",
+    "side": "SHORT",
+    "value": -1.6865655504773314e-05
   }
 ]

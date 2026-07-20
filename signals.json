@@ -1,245 +1,5 @@
 [
   {
-    "time": "2026-07-18 16:49:45",
-    "symbol": "SAFEUSDT",
-    "side": "SHORT",
-    "value": -0.00035985763424156714
-  },
-  {
-    "time": "2026-07-18 16:50:01",
-    "symbol": "SOILUSDT",
-    "side": "LONG",
-    "value": 0.0008329545688452455
-  },
-  {
-    "time": "2026-07-18 16:50:07",
-    "symbol": "SPXUSDT",
-    "side": "SHORT",
-    "value": -0.0006703200181361058
-  },
-  {
-    "time": "2026-07-18 16:50:15",
-    "symbol": "SVTSUSDT",
-    "side": "LONG",
-    "value": 0.0051075793306703254
-  },
-  {
-    "time": "2026-07-18 16:50:29",
-    "symbol": "TRADOORUSDT",
-    "side": "LONG",
-    "value": 8.359156547510516e-07
-  },
-  {
-    "time": "2026-07-18 16:50:31",
-    "symbol": "TRU1USDT",
-    "side": "LONG",
-    "value": 5.332526464851654e-05
-  },
-  {
-    "time": "2026-07-18 16:50:37",
-    "symbol": "UBERONUSDT",
-    "side": "SHORT",
-    "value": -0.014551951040999711
-  },
-  {
-    "time": "2026-07-18 16:50:49",
-    "symbol": "VEXAIUSDT",
-    "side": "SHORT",
-    "value": -5.893688217803797e-05
-  },
-  {
-    "time": "2026-07-19 01:50:37",
-    "symbol": "AEROUSDT",
-    "side": "SHORT",
-    "value": -0.00294930187259268
-  },
-  {
-    "time": "2026-07-19 01:50:41",
-    "symbol": "AINETWORKUSDT",
-    "side": "SHORT",
-    "value": -7.783003002656205e-06
-  },
-  {
-    "time": "2026-07-19 01:50:54",
-    "symbol": "APEXUSDT",
-    "side": "LONG",
-    "value": 0.0002517995922366456
-  },
-  {
-    "time": "2026-07-19 01:51:06",
-    "symbol": "ATRUSDT",
-    "side": "SHORT",
-    "value": -8.727042380955339e-07
-  },
-  {
-    "time": "2026-07-19 01:51:38",
-    "symbol": "BTTUSDT",
-    "side": "LONG",
-    "value": 1.8641730801424341e-10
-  },
-  {
-    "time": "2026-07-19 01:51:47",
-    "symbol": "CEEKUSDT",
-    "side": "LONG",
-    "value": 1.1792341521287431e-05
-  },
-  {
-    "time": "2026-07-19 01:51:49",
-    "symbol": "CELLUSDT",
-    "side": "SHORT",
-    "value": -0.0002687157674625823
-  },
-  {
-    "time": "2026-07-19 01:52:00",
-    "symbol": "COMPUSDT",
-    "side": "LONG",
-    "value": 0.01859260878444502
-  },
-  {
-    "time": "2026-07-19 01:52:09",
-    "symbol": "CRYPGPTUSDT",
-    "side": "SHORT",
-    "value": -2.0686943011889725e-05
-  },
-  {
-    "time": "2026-07-19 01:52:31",
-    "symbol": "EDGEUSDT",
-    "side": "LONG",
-    "value": 0.0014505766337384318
-  },
-  {
-    "time": "2026-07-19 01:52:42",
-    "symbol": "EVAAUSDT",
-    "side": "SHORT",
-    "value": -0.004095872634883646
-  },
-  {
-    "time": "2026-07-19 01:53:16",
-    "symbol": "GVLUSDT",
-    "side": "LONG",
-    "value": 2.3281738084418233e-07
-  },
-  {
-    "time": "2026-07-19 01:53:24",
-    "symbol": "HOLOUSDT",
-    "side": "SHORT",
-    "value": -0.00014713727497092655
-  },
-  {
-    "time": "2026-07-19 01:53:33",
-    "symbol": "INDEXUSDT",
-    "side": "SHORT",
-    "value": -2.2872607916234883e-05
-  },
-  {
-    "time": "2026-07-19 01:53:50",
-    "symbol": "KOMAUSDT",
-    "side": "LONG",
-    "value": 3.4035853664843643e-06
-  },
-  {
-    "time": "2026-07-19 01:54:05",
-    "symbol": "LYNUSDT",
-    "side": "LONG",
-    "value": 1.825625083531207e-05
-  },
-  {
-    "time": "2026-07-19 01:54:17",
-    "symbol": "METANIAUSDT",
-    "side": "LONG",
-    "value": 1.466932198416343e-05
-  },
-  {
-    "time": "2026-07-19 01:54:24",
-    "symbol": "MNFTUSDT",
-    "side": "LONG",
-    "value": 5.956945159914332e-09
-  },
-  {
-    "time": "2026-07-19 01:54:35",
-    "symbol": "NAVXUSDT",
-    "side": "LONG",
-    "value": 1.757728805925826e-05
-  },
-  {
-    "time": "2026-07-19 01:54:52",
-    "symbol": "OMGUSDT",
-    "side": "LONG",
-    "value": 0.00026978492949696065
-  },
-  {
-    "time": "2026-07-19 01:55:07",
-    "symbol": "PFEONUSDT",
-    "side": "LONG",
-    "value": 0.04763558854298111
-  },
-  {
-    "time": "2026-07-19 01:55:12",
-    "symbol": "PLAIUSDT",
-    "side": "SHORT",
-    "value": -7.302808972280053e-07
-  },
-  {
-    "time": "2026-07-19 01:55:14",
-    "symbol": "PLNUSDT",
-    "side": "LONG",
-    "value": 6.480443456896275e-05
-  },
-  {
-    "time": "2026-07-19 01:55:31",
-    "symbol": "RACAUSDT",
-    "side": "LONG",
-    "value": 7.379428153247704e-08
-  },
-  {
-    "time": "2026-07-19 01:55:55",
-    "symbol": "SGBUSDT",
-    "side": "LONG",
-    "value": 1.1579434620184736e-06
-  },
-  {
-    "time": "2026-07-19 01:56:01",
-    "symbol": "SKLUSDT",
-    "side": "SHORT",
-    "value": -2.2139625565362545e-06
-  },
-  {
-    "time": "2026-07-19 01:56:06",
-    "symbol": "SN51USDT",
-    "side": "LONG",
-    "value": 0.00576604985072926
-  },
-  {
-    "time": "2026-07-19 01:56:10",
-    "symbol": "SOFIONUSDT",
-    "side": "SHORT",
-    "value": -0.04110809888208067
-  },
-  {
-    "time": "2026-07-19 01:56:19",
-    "symbol": "SPOTONUSDT",
-    "side": "SHORT",
-    "value": -0.18525757117657804
-  },
-  {
-    "time": "2026-07-19 01:56:30",
-    "symbol": "SXTUSDT",
-    "side": "SHORT",
-    "value": -7.985251440974228e-06
-  },
-  {
-    "time": "2026-07-19 01:56:33",
-    "symbol": "SYSUSDT",
-    "side": "LONG",
-    "value": 6.343157033915185e-06
-  },
-  {
-    "time": "2026-07-19 01:56:36",
-    "symbol": "TARAUSDT",
-    "side": "LONG",
-    "value": 3.9223088400109864e-08
-  },
-  {
     "time": "2026-07-19 01:56:44",
     "symbol": "TNKUSDT",
     "side": "SHORT",
@@ -1198,5 +958,245 @@
     "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
     "side": "SHORT",
     "value": -0.0004710851304641217
+  },
+  {
+    "time": "2026-07-20 17:24:55",
+    "symbol": "ACEUSDT",
+    "side": "LONG",
+    "value": 0.0014205826493756818
+  },
+  {
+    "time": "2026-07-20 17:24:57",
+    "symbol": "ACNONUSDT",
+    "side": "LONG",
+    "value": 0.2038199113152075
+  },
+  {
+    "time": "2026-07-20 17:25:02",
+    "symbol": "AIAUSDT",
+    "side": "LONG",
+    "value": 0.00022432992037259986
+  },
+  {
+    "time": "2026-07-20 17:25:05",
+    "symbol": "AIOUSDT",
+    "side": "LONG",
+    "value": 0.001086716229323853
+  },
+  {
+    "time": "2026-07-20 17:25:16",
+    "symbol": "ARCIELUSDT",
+    "side": "SHORT",
+    "value": -1.8632107926347743e-05
+  },
+  {
+    "time": "2026-07-20 17:25:30",
+    "symbol": "B3USDT",
+    "side": "SHORT",
+    "value": -2.888421832628876e-07
+  },
+  {
+    "time": "2026-07-20 17:25:37",
+    "symbol": "BDXUSDT",
+    "side": "SHORT",
+    "value": -6.17940357489355e-05
+  },
+  {
+    "time": "2026-07-20 17:25:55",
+    "symbol": "CAUSDT",
+    "side": "LONG",
+    "value": 5.3791188983964844e-05
+  },
+  {
+    "time": "2026-07-20 17:25:58",
+    "symbol": "CELLUSDT",
+    "side": "SHORT",
+    "value": -0.00022324321424098403
+  },
+  {
+    "time": "2026-07-20 17:26:01",
+    "symbol": "CETUSUSDT",
+    "side": "LONG",
+    "value": 2.9073139516000435e-05
+  },
+  {
+    "time": "2026-07-20 17:26:06",
+    "symbol": "CLOUSDT",
+    "side": "SHORT",
+    "value": -0.001270693622348662
+  },
+  {
+    "time": "2026-07-20 17:26:16",
+    "symbol": "CROUSDT",
+    "side": "SHORT",
+    "value": -8.162076930655349e-06
+  },
+  {
+    "time": "2026-07-20 17:26:22",
+    "symbol": "DADDYUSDT",
+    "side": "SHORT",
+    "value": -0.00019177371212001325
+  },
+  {
+    "time": "2026-07-20 17:26:33",
+    "symbol": "DROPEEUSDT",
+    "side": "SHORT",
+    "value": -1.4456596383279063e-05
+  },
+  {
+    "time": "2026-07-20 17:26:40",
+    "symbol": "EMBLEMUSDT",
+    "side": "LONG",
+    "value": 1.1450233158762785e-05
+  },
+  {
+    "time": "2026-07-20 17:26:48",
+    "symbol": "FARTBOYUSDT",
+    "side": "LONG",
+    "value": 2.1466479942836708e-05
+  },
+  {
+    "time": "2026-07-20 17:26:57",
+    "symbol": "FORUUSDT",
+    "side": "LONG",
+    "value": 3.1124617286860945e-06
+  },
+  {
+    "time": "2026-07-20 17:27:07",
+    "symbol": "GMEONUSDT",
+    "side": "SHORT",
+    "value": -0.00528323071853265
+  },
+  {
+    "time": "2026-07-20 17:27:15",
+    "symbol": "HANAUSDT",
+    "side": "LONG",
+    "value": 9.179960626187061e-05
+  },
+  {
+    "time": "2026-07-20 17:27:26",
+    "symbol": "IDUSDT",
+    "side": "SHORT",
+    "value": -0.0002356435062813092
+  },
+  {
+    "time": "2026-07-20 17:28:05",
+    "symbol": "MNFTUSDT",
+    "side": "SHORT",
+    "value": -4.7651141504099896e-09
+  },
+  {
+    "time": "2026-07-20 17:28:32",
+    "symbol": "OUSDT",
+    "side": "LONG",
+    "value": 0.0010492496247493932
+  },
+  {
+    "time": "2026-07-20 17:28:35",
+    "symbol": "OWLUSDT",
+    "side": "SHORT",
+    "value": -4.504112826775493e-07
+  },
+  {
+    "time": "2026-07-20 17:28:59",
+    "symbol": "RACAUSDT",
+    "side": "LONG",
+    "value": 8.822007514885623e-10
+  },
+  {
+    "time": "2026-07-20 17:29:20",
+    "symbol": "SGBUSDT",
+    "side": "LONG",
+    "value": 3.797598405943115e-07
+  },
+  {
+    "time": "2026-07-20 17:29:28",
+    "symbol": "SMTUSDT",
+    "side": "SHORT",
+    "value": -4.572931629929708e-05
+  },
+  {
+    "time": "2026-07-20 17:29:37",
+    "symbol": "SPOTONUSDT",
+    "side": "LONG",
+    "value": 0.5840573959964104
+  },
+  {
+    "time": "2026-07-20 17:29:45",
+    "symbol": "SUIUSDT",
+    "side": "LONG",
+    "value": 6.823773184161386e-05
+  },
+  {
+    "time": "2026-07-20 17:29:50",
+    "symbol": "SYMONUSDT",
+    "side": "SHORT",
+    "value": -0.0674685230805494
+  },
+  {
+    "time": "2026-07-20 17:29:54",
+    "symbol": "TATSUUSDT",
+    "side": "SHORT",
+    "value": -0.00039169679501516175
+  },
+  {
+    "time": "2026-07-20 17:29:56",
+    "symbol": "TBCUSDT",
+    "side": "SHORT",
+    "value": -0.0025311760956174822
+  },
+  {
+    "time": "2026-07-20 17:30:00",
+    "symbol": "TIAUSDT",
+    "side": "SHORT",
+    "value": -0.0010834476124053638
+  },
+  {
+    "time": "2026-07-20 17:30:01",
+    "symbol": "TIBBIRUSDT",
+    "side": "SHORT",
+    "value": -0.00031471216229374266
+  },
+  {
+    "time": "2026-07-20 17:30:05",
+    "symbol": "TNKUSDT",
+    "side": "SHORT",
+    "value": -0.0004853821502843886
+  },
+  {
+    "time": "2026-07-20 17:30:08",
+    "symbol": "TOWNSUSDT",
+    "side": "LONG",
+    "value": 1.9513979463073663e-05
+  },
+  {
+    "time": "2026-07-20 17:30:24",
+    "symbol": "VELODROMEUSDT",
+    "side": "SHORT",
+    "value": -6.221586263104387e-05
+  },
+  {
+    "time": "2026-07-20 17:30:31",
+    "symbol": "VSTONUSDT",
+    "side": "LONG",
+    "value": 0.04896933213379384
+  },
+  {
+    "time": "2026-07-20 17:30:39",
+    "symbol": "WOOUSDT",
+    "side": "LONG",
+    "value": 1.506111246205033e-06
+  },
+  {
+    "time": "2026-07-20 17:30:48",
+    "symbol": "XRPCUSDT",
+    "side": "LONG",
+    "value": 1.1898655068248926e-06
+  },
+  {
+    "time": "2026-07-20 17:30:59",
+    "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+    "side": "SHORT",
+    "value": -0.0004966121959912861
   }
 ]
